@@ -1,6 +1,8 @@
 0x11. C - printf
 ================
 
+Jane Muriithi and Mutai Kipkemboi
+
 C Group project
 
 
